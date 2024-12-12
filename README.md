@@ -25,4 +25,4 @@ Welcome to my GitHub profile! I specialize in building web applications and serv
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wArahh&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wArahh&theme=dark)](https://github.com/wArahh/github-readme-stats)
