@@ -30,12 +30,9 @@ Welcome to my GitHub profile! I specialize in building web applications and serv
 
 ## 📊 Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wArahh&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wArahh&theme=dark)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wArahh&theme=dark)
-
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@warah&theme=dark)](https://github.com/wArahh/github-readme-stats)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wArahh&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wArahh&theme)
 
 
