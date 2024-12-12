@@ -16,22 +16,21 @@ Welcome to my GitHub profile! I specialize in building web applications and serv
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Telegram Bot API](https://img.shields.io/badge/Telegram%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
-
 ---
-
 
 ## 🎯 About Me
-- Passionate about programming and exploring new libraries.
-- Experienced in analyzing, fixing, and refactoring existing code.
-- Open to collaborations and eager to contribute to innovative projects.
 
+### - Passionate about programming and exploring new libraries.
+### - Experienced in analyzing, fixing, and refactoring existing code.
+### - Open to collaborations and eager to contribute to innovative projects.
 
 ---
 
-## 📊 Stats
+## 🌟 Streaks & Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wArahh)
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@warah)](https://github.com/wArahh/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wArahh&theme)
+### 📈 My GitHub Activity
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wArahh&show_icons=true)
 
+### 🕒 My Wakatime Stats
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@warah)](https://wakatime.com/@warah)
 
