@@ -5,14 +5,17 @@ Welcome to my GitHub profile! I specialize in building web applications and serv
 ---
 
 ## 🛠️ Technologies & Tools
-- **Backend:** Python (Flask, FastAPI, Django, DRF)
-- **Frontend:** HTML, CSS, JavaScript (Bootstrap, responsive design)
-- **Databases:** PostgreSQL, SQLite, SQLAlchemy, Alembic
-- **Testing:** Pytest, Unittest
-- **API Integrations:** Telegram Bot API, Telegram Client API
-- **Data Parsing:** BeautifulSoup, requests
-- **Automation:** GitHub Actions
-- **Version Control:** Git
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlite&logoColor=white)
+![Telegram Bot API](https://img.shields.io/badge/Telegram%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+
 
 ---
 
@@ -20,9 +23,19 @@ Welcome to my GitHub profile! I specialize in building web applications and serv
 ## 🎯 About Me
 - Passionate about programming and exploring new libraries.
 - Experienced in analyzing, fixing, and refactoring existing code.
+- Open to collaborations and eager to contribute to innovative projects.
+
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wArahh&theme=dark)](https://github.com/wArahh/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=wArahh&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wArahh&theme=dark)
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@warah&theme=dark)](https://github.com/wArahh/github-readme-stats)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wArahh&theme=dark)
+
+
