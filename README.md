@@ -28,9 +28,6 @@ Welcome to my GitHub profile! I specialize in building web applications and serv
 
 ## 🌟 Streaks & Stats
 
-### 📈 My GitHub Activity
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wArahh&show_icons=true)
-
 ### 🕒 My Wakatime Stats
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@warah)](https://wakatime.com/@warah)
 
