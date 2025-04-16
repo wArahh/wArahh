@@ -30,4 +30,6 @@ Welcome to my GitHub profile! I specialize in building web applications and serv
 
 ### 🕒 My Wakatime Stats
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@warah)](https://wakatime.com/@warah)
+
+# since Dec, 12 2024
 [![wakatime](https://wakatime.com/badge/user/0db6aeeb-819d-403e-9bcc-21035f8889ce.svg)](https://wakatime.com/@0db6aeeb-819d-403e-9bcc-21035f8889ce)
