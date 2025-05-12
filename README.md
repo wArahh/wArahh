@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=500&height=70&lines=%F0%9F%90%8DPython+Backend+Developer%F0%9F%90%8D;Building+APIs+%26+Telegram+Bots" alt="Animated typing text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FCD34D&center=true&vCenter=true&width=500&height=70&lines=Python+Backend+Developer;Building+APIs+%26+Bots" alt="Animated typing text"/>
 </p>
 
 <p align="center">
